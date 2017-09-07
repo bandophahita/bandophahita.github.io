@@ -2,12 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 theme: jekyll-theme-hacker
-
-# Name of your site (displayed in the header)
-name: Bandophahita
-
-# Short bio or description (displayed in the header)
-description: QA and Python dev
+name: Bandophahita # Name of your site (displayed in the header)
+description: QA and Python dev # Short bio or description (displayed in the header)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/4211287?v=4&u=c21af14c19d202bd6224e283c8440cd8e7d3f13b&s=400
@@ -42,13 +38,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://bandophahita.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+# baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
