@@ -1,6 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
+theme: jekyll-theme-hacker
 
 # Name of your site (displayed in the header)
 name: Bandophahita
@@ -85,4 +86,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-architect
+
