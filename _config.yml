@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-theme: jekyll-theme-hacker
+
 name: Bandophahita # Name of your site (displayed in the header)
 description: QA and Python dev # Short bio or description (displayed in the header)
 
@@ -82,4 +82,4 @@ exclude:
   - README.md
   - CNAME
 
-
+theme: jekyll-theme-hacker
